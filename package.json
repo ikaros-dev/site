@@ -1,0 +1,16 @@
+{
+  "name": "ikaros-site",
+  "version": "1.0.0",
+  "description": "ikaros offical site",
+  "main": "index.js",
+  "repository": "https://github.com/ikaros-dev/ikaros-site",
+  "author": "li-guohao",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
