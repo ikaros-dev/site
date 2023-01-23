@@ -19,4 +19,5 @@ features:
 
 ::: slot footer
 AGPL-3.0 Licensed | Copyright ©2023 [Ikaros Developer](https://github.com/ikaros-dev) Built with [Vuepress](https://vuepress.vuejs.org/).
+ICP备案号：[赣ICP备19013362号-4](http://beian.miit.gov.cn/publish/query/indexFirst.action)
 :::
