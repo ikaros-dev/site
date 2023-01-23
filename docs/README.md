@@ -20,5 +20,5 @@ features:
 ---
 
 ::: slot footer
-AGPL-3.0 Licensed | Copyright ©2023 [Ikaros Developer](https://github.com/ikaros-dev)
+AGPL-3.0 Licensed | Copyright ©2023 [Ikaros Developer](https://github.com/ikaros-dev) Built with Vuepress.
 :::
