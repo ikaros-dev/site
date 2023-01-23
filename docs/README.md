@@ -3,7 +3,7 @@ home: true
 heroText: Ikaros
 tagline: 专注于ACGMN的内容管理系统
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: https://docs.ikaros.run/
 features:
 - title: 统一资源管理
   details: 所有的资源由统一的平台进行管理，再也不用东一个西一个了
