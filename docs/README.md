@@ -1,9 +1,7 @@
 ---
 home: true
 heroText: Ikaros
-tagline: 专注于ACGMN的内容管理系统
-actionText: 快速上手 →
-actionLink: https://docs.ikaros.run/
+tagline: 专注于ACGMN的内容管家(CMS)
 features:
 - title: 统一资源管理
   details: 所有的资源由统一的平台进行管理，再也不用东一个西一个了
@@ -20,5 +18,5 @@ features:
 ---
 
 ::: slot footer
-AGPL-3.0 Licensed | Copyright ©2023 [Ikaros Developer](https://github.com/ikaros-dev) Built with Vuepress.
+AGPL-3.0 Licensed | Copyright ©2023 [Ikaros Developer](https://github.com/ikaros-dev) Built with [Vuepress](https://vuepress.vuejs.org/).
 :::
