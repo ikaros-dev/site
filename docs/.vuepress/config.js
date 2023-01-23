@@ -1,6 +1,6 @@
 module.exports = {
     head: [
-        ['link', { rel: 'icon', href: 'assets/logo.png' }]
+        ['link', { rel: 'icon', href: '/logo.png' }]
     ],
     title: 'Ikaros开源',
     description: '一个专注于ACGMN的内容管理系统 | A java content manager system for anime, comic, game, music and novels.',
