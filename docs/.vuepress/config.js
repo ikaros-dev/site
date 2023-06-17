@@ -7,7 +7,7 @@ module.exports = {
     themeConfig: {
         logo: '/logo.png',
         nav: [
-            // { text: '文档', link: 'https://docs.ikaros.run', target:'_blank' },
+            { text: '文档', link: 'https://docs.ikaros.run', target:'_blank' },
             { text: 'GitHub', link: 'https://github.com/ikaros-dev/ikaros', target:'_blank' }
         ],
         lastUpdated: '最后更新时间',
