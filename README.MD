@@ -6,7 +6,8 @@
 
 ## 命令
 
-``` yarn
+```yarn
+yarn install
 yarn docs:dev
 yarn docs:build
 ```
