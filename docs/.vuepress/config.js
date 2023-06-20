@@ -1,6 +1,10 @@
 module.exports = {
     head: [
-        ['link', { rel: 'icon', href: '/logo.png' }]
+        ['link', { rel: 'icon', href: '/logo.png' }],
+        [
+            'script',
+            {  async: true, src: 'https://analytics.ikaros.run/script.js', 'data-website-id': '4b7446e4-2890-4f43-830e-f6e1eada32b2' }
+        ]
     ],
     title: 'Ikaros',
     description: '一个专注于ACGMN的内容管理系统 | A java content manager system for anime, comic, game, music and novels.',
